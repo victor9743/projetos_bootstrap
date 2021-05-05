@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: "gothic";
+    src: url("../recursos/century-gothic.ttf");
+}
+
+*{
+    font-family:"gothic";
+}
+
+.cor{
+ color: white;
+
+}
+.fundo{
+    background-color: #3366ff;
+  
+}

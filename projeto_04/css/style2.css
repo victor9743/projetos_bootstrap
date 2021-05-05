@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "gothic";
+    src: url("../recursos/century-gothic.ttf");
+}
+
+*{
+    font-family:"gothic";
+}
+#menu{
+    background-color: #1a75ff;
+}
+#hamburguer{
+    border-color:  white ;
+}

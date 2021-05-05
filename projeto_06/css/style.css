@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: "gothic";
+    src: url("../recursos/century-gothic.ttf");
+}
+
+*{
+    font-family:"gothic";
+}
+#campo{
+    
+   
+    margin-top: 10px;
+    margin-bottom: 80px;
+    width: 96%;
+    height: 750px;
+    margin-left: 2%;
+    margin-right: 2%;
+    min-width: 555px;
+   
+}
+#cadastro1{
+   
+    border: 1px solid;
+    height: 110%;
+    width: 50%;
+    padding: 10px;
+    float: left;
+    min-width: 15%;
+}
+
+.cadastro1-campo{
+    
+    float: left;
+    margin-right: 90px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+  
+}
+
+#cadastro2{
+    float: right;
+    border: 1px solid;
+    height: 110%;
+    width: 50%;
+    padding: 10px;
+   
+}
+
+.cadastro2-campo{
+  
+    float: left;
+    margin-right: 10%;
+    width: 25%;
+    margin-bottom: 20px;
+    margin-left: 10%;
+
+}
+
+
+#cadastro3{
+    border: solid 1px green;
+    padding: 10px;
+    height: 30%;
+    
+
+}
+.cadastro3-campo{
+    float: left;
+}
+.cadastro3-campo input{
+    width: 325px;
+    margin-right: 20%;
+   
+}
+.cadastro3-campo label{
+    
+}
